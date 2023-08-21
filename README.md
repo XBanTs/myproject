@@ -1,4 +1,4 @@
 # hello-world
 Hello World repository for Git tutorial
-This is a doc. that shows all the info. about this repository.
-A new line.
+This is a document that shows all the info. about this repository.
+
